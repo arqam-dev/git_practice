@@ -28,4 +28,5 @@ git checkout filename.ext
 
 
 
-** show changes
+** discard specific lines
+** 
