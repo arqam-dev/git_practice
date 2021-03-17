@@ -7,11 +7,9 @@ git remote -v // to check the configuration of the remote server
 git push
 
 
-after chances and without committing, if you wan to view the changes: "git diff" or "git difftool". second will show in graphical.
-
 creating new branch
 
-
+git checkout filename.ext
 
 
 
